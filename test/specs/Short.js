@@ -16,7 +16,7 @@ describe('My Login application', () => {
         { link: Elina.AffEPL10cashbackJP },
         { link: Elina.AffEPL10cashbackEN },
         { link: Elina.BCDepositBonus },
-        { link: Elina.BCDepositBonus },
+        { link: Elina.DepositBonusJP},
         { link: Elina.DepositBonusEN },
         { link: Elina.AffJPacqcodeJP },
         { link: Elina.AffJPacqcodeEN },
